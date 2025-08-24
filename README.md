@@ -7,6 +7,8 @@ Flash-Attention-2 with GPT-OSS style Offset (Sinks)
 For the ease of understanding and implementation, in this blog I will modify the [official triton FA2 tutorial](https://triton-lang.org/main/getting-started/tutorials/06-fused-attention.html) to add this function.
 Check the explaination in Blog: [https://zirui-ray-liu.github.io/blog/2025/FA+Offset/](https://zirui-ray-liu.github.io/blog/2025/FA+Offset/)
 
+## FA2 FWD Change
+
 L227, 228 in fa.py
 
 ## FA2 BWD Change
